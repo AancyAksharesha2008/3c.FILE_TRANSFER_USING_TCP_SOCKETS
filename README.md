@@ -52,8 +52,9 @@ while True:
     print("Done sending")
     conn.close()
 ```
-## OUPUT
-![Uploading Screenshot 2026-05-18 101405.png…]()
+## OUTPUT
+<img width="1043" height="566" alt="Screenshot 2026-05-18 101405" src="https://github.com/user-attachments/assets/57096ee2-16f5-447a-871f-2263d116bbb5" />
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
